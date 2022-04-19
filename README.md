@@ -16,4 +16,4 @@ Achived distance = 1.216156 millions kilometers
 ```
 
 ## The video of the simulation process
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/tAde3-9jUow/0.jpg)](http://www.youtube.com/watch?v=tAde3-9jUow "The simulation video")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Kz1PoHW6Tf4/0.jpg)](http://www.youtube.com/watch?v=Kz1PoHW6Tf4 "The simulation video")
